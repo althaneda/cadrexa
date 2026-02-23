@@ -44,8 +44,8 @@ function stabilityColor($s): string {
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="CopyFlow is a smart transcription assistant that keeps you on pace with adaptive rhythm highlighting, speed measurement, training analytics, and pace sharing.">
-  <meta name="keywords" content="transcription tool, copy assistant, writing speed, rhythm highlight, typing trainer, pace tracker, CopyFlow, focus writing">
+  <meta name="description" content="Cadrexa is a smart transcription assistant that keeps you on pace with adaptive rhythm highlighting, speed measurement, training analytics, and pace sharing.">
+  <meta name="keywords" content="transcription tool, copy assistant, writing speed, rhythm highlight, typing trainer, pace tracker, Cadrexa, focus writing">
   <title>Cadrexa — <?= t('tagline') ?></title>
   <link rel="stylesheet" href="assets/css/style.css?latest">
   <link rel="icon" type="image/svg+xml" href="favicon.ico">
